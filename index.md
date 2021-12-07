@@ -4,6 +4,8 @@ I'm Eric, a data analyst and digital marketing director. I contribute to the str
 
 # Case Study | Bellabeats 
 
+![person doing yoga](https://images.pexels.com/photos/2294354/pexels-photo-2294354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 In this case study I will try to identify times of the day when people wear and do not wear thier tracking devices and when they are most active.
 
 * kaggle notebook 
