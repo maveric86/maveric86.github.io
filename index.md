@@ -6,7 +6,7 @@ I'm Eric, a data analyst and digital marketing director. I contribute to the str
 
 In this case study I will try to identify times of the day when people wear and do not wear thier tracking devices and when they are most active.
 
-![chart](maveric86.github.io/charts-01.png)
+![chart](https://github.com/maveric86/maveric86.github.io/blob/7a1d01b2de215f66c3336d7d7630d7c03c352f9c/charts-01.png)
 
 * This project is published on Kaggle [Bellabeat Case Study](https://www.kaggle.com/ericjdunn/bellabeat-marketing-analysis-case-study). 
 
