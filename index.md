@@ -4,11 +4,13 @@ I'm Eric, a data analyst and digital marketing director. I contribute to the str
 
 ### Case Study | Bellabeats 
 
+https://www.kaggle.com/ericjdunn/bellabeat-marketing-analysis-case-study
+
 ![person doing yoga](https://images.pexels.com/photos/2294354/pexels-photo-2294354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 In this case study I will try to identify times of the day when people wear and do not wear thier tracking devices and when they are most active.
 
-* kaggle notebook 
+* This project is published on Kaggle [Bellabeat Case Study](https://www.kaggle.com/ericjdunn/bellabeat-marketing-analysis-case-study). 
 
 ### Toronto Community Shelter Flow 
 
