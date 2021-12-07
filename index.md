@@ -14,4 +14,7 @@ In this case study I will try to identify times of the day when people wear and 
 
 This project is an exploratory analysis of Toronto's Community Shelter Flow using Toronto's Open Data catalogue. I will try to identify insights based on traffic entering and exiting the shelter system by demographic data and population group. 
 
-* kaggle notebook 
+
+![chart](https://github.com/maveric86/maveric86.github.io/blob/c199122485e7856b5f4bd8a2fefb0580e4404dda/charts-02.png)
+
+* This project will be released on Kaggle shortly.  
