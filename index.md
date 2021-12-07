@@ -6,7 +6,7 @@ I'm Eric, a data analyst and digital marketing director. I contribute to the str
 
 In this case study I will try to identify times of the day when people wear and do not wear thier tracking devices and when they are most active.
 
-![chart](https://github.com/maveric86/maveric86.github.io/blob/7a1d01b2de215f66c3336d7d7630d7c03c352f9c/charts-01.png)
+![chart](https://maveric86.github.io/charts-01.png)
 
 * This project is published on Kaggle [Bellabeat Case Study](https://www.kaggle.com/ericjdunn/bellabeat-marketing-analysis-case-study). 
 
@@ -15,6 +15,6 @@ In this case study I will try to identify times of the day when people wear and 
 This project is an exploratory analysis of Toronto's Community Shelter Flow using Toronto's Open Data catalogue. I will try to identify insights based on traffic entering and exiting the shelter system by demographic data and population group. 
 
 
-![chart](https://github.com/maveric86/maveric86.github.io/blob/c199122485e7856b5f4bd8a2fefb0580e4404dda/charts-02.png)
+![chart](https://maveric86.github.io/charts-02.png)
 
 * This project will be released on Kaggle shortly.  
