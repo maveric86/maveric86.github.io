@@ -8,7 +8,7 @@ In this case study I will try to identify times of the day when people wear and 
 
 ![chart](https://maveric86.github.io/charts-01.png)
 
-* This project is published on Kaggle [Bellabeat Case Study](https://www.kaggle.com/ericjdunn/bellabeat-marketing-analysis-case-study). 
+* This project is published on Kaggle [Bellabeat Case Study](https://www.kaggle.com/ericjdunn/bellabeat-marketing-analysis-case-study)
 
 ### Toronto Community Shelter Flow 
 
@@ -17,4 +17,4 @@ This project is an exploratory analysis of Toronto's Community Shelter Flow usin
 
 ![chart](https://maveric86.github.io/charts-03.png)
 
-* This project will be released on Kaggle shortly.  
+* This project is published on Kaggle [Bellabeat Case Study](https://www.kaggle.com/ericjdunn/exploratory-analysis-of-toronto-shelter-flow)
